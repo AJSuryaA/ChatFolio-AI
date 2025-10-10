@@ -1,0 +1,141 @@
+
+Driven by a passion for uniting creativity and intelligence, dedicated to crafting innovative, data-driven solutions shaped by Generative AI. Grounded in machine learning and data engineering, challenges become opportunities for exploration, precision, and purposeful design. Committed to transforming complexity into clarity through systems that are scalable, meaningful, and human-centered. Continuously evolving with the frontier of technology to create intelligence that not only perform but inspires.
+Robotics Engineering
+Applying robotics and automation expertise to design intelligent systems that integrate hardware and software for real-world applications.
+
+
+
+
+Robotics Engineering
+Applying robotics and automation expertise to design intelligent systems that integrate hardware and software for real-world applications.
+
+📊 Data Science
+Delivering end-to-end analytics solutions with data preprocessing, exploratory data analysis (EDA), and machine learning models using Python, Pandas, NumPy, and Scikit-learn.
+
+💾 Data Engineering
+Building scalable ETL pipelines and workflows using Apache Airflow, Hadoop, and PySpark to process large-scale datasets efficiently.
+
+☁️ Cloud & Big Data Solutions
+Leveraging AWS, Azure Databricks, and Hadoop ecosystems to implement high-performance cloud-based data solutions.
+
+🔍 Machine Learning & NLP
+Designing, developing, and deploying machine learning models, including NLP pipelines, for actionable insights and automation.
+
+📈 Data Visualization
+Creating interactive and insightful dashboards using Power BI, Seaborn, Matplotlib, and Plotly for data storytelling and decision-making.
+
+🧠 Generative AI & Automation
+Developing AI-powered systems for automated analytics, report generation, and intelligent decision-making using GPT APIs and FastAPI.
+
+💻 Front-End Development
+Crafting modern, responsive web interfaces for data-driven applications, ensuring seamless user experiences.
+
+
+
+1. GenSight – AI-Powered Analytics & Report Automation System
+
+Description:
+GenSight is an intelligent analytics automation platform that transforms complex datasets into real-time, insight-driven reports. Built using FastAPI, PySpark, and a Hadoop-based Data Lake, it automates every step — from data cleaning and aggregation to ML-powered summarization and visual dashboards.
+
+With GPT integration, GenSight adds a layer of cognitive intelligence, delivering dynamic recommendations and contextual insights. The system enables live tracking through WebSockets, allowing users to monitor report generation in real time, ensuring faster decision-making and reduced manual effort.
+
+Tech Stack: Python, FastAPI, PySpark, Hadoop, Pandas, GPT API, Apache Superset, Jinja2, WeasyPrint
+Impact: Automated reporting workflow, improved analytical accuracy, and reduced manual reporting time by over 60%.
+
+⚙️ 2. End-to-End Machine Learning Pipeline
+
+Description:
+A fully modular end-to-end ML pipeline designed for seamless automation — covering data ingestion, preprocessing, model training, evaluation, and deployment. Built with scalable architecture and automated logging and exception handling, it simplifies the lifecycle of any ML project.
+
+The system efficiently handles both structured and unstructured data, ensuring standardized workflows for rapid model iteration and deployment. It demonstrates strong integration between data engineering and machine learning operations (MLOps) principles.
+
+Tech Stack: Python, Scikit-learn, Pandas, NumPy, MLflow, Flask
+Impact: Reduced manual review effort by 50% through full workflow automation and improved reproducibility.
+
+
+Driven by a passion for uniting creativity and intelligence, dedicated to crafting innovative, data-driven solutions shaped by Generative AI. Grounded in machine learning and data engineering, challenges become opportunities for exploration, precision, and purposeful design. Committed to transforming complexity into clarity through systems that are scalable, meaningful, and human-centered. Continuously evolving with the frontier of technology to create intelligence that not only perform but inspires.
+
+
+⚙️ Robotics Engineering
+
+End-to-end design and development of robotic systems combining mechanical, electronic, and software integration. Skilled in control systems, motion planning, automation, and embedded control for autonomous and semi-autonomous robots.
+
+💻 Programming & AI
+
+Proficient in Python, C++, and MATLAB for algorithm design, simulation, and robotics software. Experience with AI integration, computer vision, and decision-making models to enable intelligent robot behavior.
+
+🧠 Embedded & Hardware Systems
+
+Hands-on experience with Arduino, Raspberry Pi, and microcontrollers for real-time control, sensor integration, circuit design, PCB prototyping, and power management. Skilled in system troubleshooting and optimization.
+
+📐 Design, Simulation & 3D Printing
+
+Proficient in CAD tools (SolidWorks, AutoCAD) for precision mechanical design and ROS / Gazebo for simulation and virtual testing. Experienced in 3D modeling, slicing, and additive manufacturing (3D printing) for rapid prototyping.
+Contributed to patent design work for a company, involving innovative 3D model creation and mechanical design documentation.
+
+🚀 Projects & Problem-Solving
+
+Developed and deployed functional robotics and automation prototypes through iterative research and experimentation. Strong in analytical thinking, debugging, teamwork, and complete project execution from concept to deployment.
+
+JAYA SURYA A
+Phone: 8072260461
+Email: ajsuryaa17@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ajsuryaa
+
+GitHub: https://github.com/AJSuryaA
+
+PROFESSIONAL SUMMARY
+Passionate about merging creativity and intelligence to build innovative, data-driven solutions powered by Generative AI. Skilled in LLMs, LangChain, RAG, embeddings, and vector DB, with expertise in Python, SQL, PySpark, and cloud platforms. Driven to transform complex data into scalable, human-centered AI systems that deliver actionable insights.
+
+EDUCATION
+Rajalakshmi Engineering College | Sep 2020 – May 2024
+Robotics and Automation | CGPA: 7.64
+
+St. Joseph’s Mat Hr Sec School | Jun 2019 – May 2020
+Math with Computer Science | Percent: 70.5
+
+TECHNICAL SKILLS
+
+Languages and Tools: Python, SQL, Git/GitHub
+
+Data Science and Analytics: Model Development & Evaluation, NLP, Large Language Models, LangChain, RAG, Vector Databases, Embeddings, Hugging Face
+
+Data Orchestration: Apache Airflow
+
+Big Data & Cloud Technologies: Apache Hadoop, PySpark, AWS, Azure Databricks
+
+PROJECTS
+
+GenSight – AI-Powered Analytics and Report Automation System
+
+Designed a SaaS data reporting platform with FastAPI, Pandas, and PySpark, integrated with Hadoop Data Lake/Warehouse to automate large-scale report generation with GPT-powered intelligent insights.
+
+Enabled real-time pipeline tracking via FastAPI WebSockets and implemented data cleaning, aggregation, ML-based summarization, dashboards via Apache Superset, and PDF/HTML reports using Jinja2 and WeasyPrint.
+
+Personalized AI Portfolio Chatbot using RAG
+
+Designed and developed an AI-powered interview assistant using Retrieval-Augmented Generation (RAG) and LangChain to answer questions based on my personal portfolio content.
+
+Implemented embeddings and vector databases (ChromaDB) for efficient semantic search and accurate responses.
+
+CERTIFICATIONS
+
+MITx 6.86x: Machine Learning with Python – From Linear Models to Deep Learning
+
+Post Graduate Program in Data Science and Machine Learning
+
+NLP with Python for ML Essential Training
+
+Microsoft SQL Server
+
+SQL Skill Test (Advanced) | HackerRank
+
+Power BI Training
+
+AWS Essential Training for Developers
+
+If you want, I can also reformat this into a clean, professional Word or PDF-ready resume text so it’s ready to submit to companies.
+
+
+    
